@@ -1,5 +1,0 @@
-transformers
-torch
-sentence-transformers
-faiss-cpu
-wikipedia
